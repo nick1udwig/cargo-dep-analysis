@@ -1,0 +1,9 @@
+[package]
+name = "cargo-dep-analysis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cargo_metadata = "0.15"
+regex = "1.5"
+walkdir = "2.3"
